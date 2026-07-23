@@ -70,4 +70,4 @@ function isStudentAPlus(student){
 }
 
 const isAPlus = isStudentAPlus(student);
-console.log(isAPlus)
+// console.log(isAPlus)
